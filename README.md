@@ -1,4 +1,4 @@
-- 👋 Hi, I'm Sujith , 3rd year undergrad at IIT MANDI
+- 👋 Hi, I'm Sujith , graduate from IIT MANDI
 - 👀 I’m interested in Coding,Data Science,Machine Learning ,AI,Entrepreneurship
 - 🌱 I’m currently learning Coding, Machine Learning 
 - 💞️ I’m looking to collaborate on Machine Learning
