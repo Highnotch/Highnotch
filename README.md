@@ -87,7 +87,10 @@ Built for the **Election Commission of India**. Detects unauthorized activities 
   <img src="https://skillicons.dev/icons?i=python,typescript,javascript,cpp,react,nextjs,fastapi,flask,nodejs&theme=dark" />
 </p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,docker,aws,postgresql,supabase,vercel,git&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,docker,kubernetes,aws,gcp,postgresql,redis&theme=dark" />
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=supabase,mongodb,kafka,grafana,prometheus,vercel,git,linux,vscode&theme=dark" />
 </p>
 
 <details>
@@ -96,12 +99,15 @@ Built for the **Election Commission of India**. Detects unauthorized activities 
 
 | Domain | Technologies |
 |--------|------------|
-| **AI/ML & LLMs** | LangChain · Agentic AI · RAG Systems · TensorFlow · PyTorch · Keras · scikit-learn · Hugging Face · spaCy |
-| **Computer Vision** | OpenCV · YOLO · Image Segmentation · Face Recognition · VGG · ResNet |
+| **LLMs & GenAI** | LLM Fine-Tuning (LoRA, QLoRA, PEFT) · Prompt Engineering · RAG Pipelines · Agentic AI · LangChain · LlamaIndex · Multi-Modal AI · Hugging Face Transformers |
+| **ML & Deep Learning** | PyTorch · TensorFlow · Keras · scikit-learn · XGBoost · spaCy · Transfer Learning · Model Optimization & Quantization |
+| **Computer Vision** | OpenCV · YOLO · Image Segmentation · Face Recognition · CNN Architectures (VGG, ResNet, EfficientNet) · Real-Time Inference |
+| **MLOps & Infrastructure** | MLflow · Weights & Biases · Kubernetes · Docker · Model Versioning · A/B Testing · CI/CD for ML · Model Monitoring & Drift Detection |
+| **Vector DBs & Data** | ChromaDB · Pinecone · FAISS · PostgreSQL · MongoDB · Redis · Supabase · SQLite · Feature Stores |
+| **Cloud & Deployment** | AWS (SageMaker, ECS, RDS, Lambda) · GCP (Vertex AI) · Model Serving (FastAPI, TorchServe) · Serverless · Vercel |
 | **Frontend** | React · Next.js 14 · TailwindCSS · TypeScript · JavaScript |
-| **Backend** | FastAPI · Flask · Node.js · Express · REST APIs · WebSockets |
-| **Data & Cloud** | PostgreSQL · ChromaDB · Supabase · SQLite · AWS (ECS, RDS) · Docker · Vercel |
-| **Automation** | Playwright · Selenium · GitHub Actions · CI/CD |
+| **Backend** | FastAPI · Flask · Node.js · Express · REST APIs · WebSockets · GraphQL |
+| **Automation & Tooling** | Playwright · Selenium · n8n · GitHub Actions · Apache Kafka · Grafana · Prometheus |
 
 </details>
 
